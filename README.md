@@ -1,6 +1,9 @@
 # my-flutter-app
 
 A new Flutter project: first tutorial.
+A sample is like below
+
+![img](sample.png)
 
 ## Getting Started
 
